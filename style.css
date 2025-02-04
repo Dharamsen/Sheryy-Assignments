@@ -1,0 +1,16 @@
+h1{
+    background:linear-gradient(to right bottom , yellow , pink , green , cyan );
+    text-align: center;
+}
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.link{
+    text-decoration-style:wavy ;
+}
+p{
+    line-height: 1.4;
+   text-align: center;
+    
+}
+
